@@ -1,0 +1,5 @@
+# Dependencias del bot de trading (entorno TESTNET / paper trading)
+# Motor de conexión multi-exchange con soporte de modo sandbox/demo
+ccxt>=4.5.0
+# Carga segura de credenciales desde el archivo .env (nunca hardcodeadas)
+python-dotenv>=1.0.0
