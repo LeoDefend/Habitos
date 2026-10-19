@@ -1,0 +1,15 @@
+# Credenciales: NUNCA versionar el .env real
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Salida local
+*.log
+
+# Editores
+.vscode/
+.idea/
